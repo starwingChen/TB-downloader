@@ -8,9 +8,9 @@
 
 ## 使用教程
 
-1. <img src="./resource/1.jpg" height="200">
-2. <img src="./resource/2.jpg" height="100">
-3. <img src="./resource/3.jpg" height="200">
+1. <img src="./resource/1.jpg" alt ="将项目下载到本地" height="200">
+2. <img src="./resource/2.jpg" alt ="运行里面的exe文件" height="100">
+3. <img src="./resource/3.jpg" alt ="'仅限楼主'指的是仅下载楼主发的图片" height="200">
 
 ## 示例
 
